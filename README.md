@@ -12,6 +12,8 @@ Special focus on: NIST, IETF, W3C and TCG
 
 ## Terms
 
+- [issuer](https://vocabulary.transmute.industries/ns/issuer)
+- [verifier](https://vocabulary.transmute.industries/ns/verifier)
 - [attestation](https://vocabulary.transmute.industries/ns/attestation)
 - [claim](https://vocabulary.transmute.industries/ns/claim)
 - [credential](https://vocabulary.transmute.industries/ns/credential)
