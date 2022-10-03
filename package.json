@@ -1,0 +1,19 @@
+{
+  "name": "vocabulary.transmute.industries",
+  "version": "1.0.0",
+  "description": "https://github.com/transmute-industries/vocabulary.transmute.industries",
+  "main": "index.js",
+  "scripts": {
+    "shove": "git add -A ; git commit -m ':rocket:' ; git push origin main"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/transmute-industries/vocabulary.transmute.industries.git"
+  },
+  "author": "Orie Steele",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/transmute-industries/vocabulary.transmute.industries/issues"
+  },
+  "homepage": "https://github.com/transmute-industries/vocabulary.transmute.industries#readme"
+}
