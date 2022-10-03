@@ -16,5 +16,6 @@ Special focus on: NIST, IETF, W3C and TCG
 - [verifier](https://vocabulary.transmute.industries/ns/verifier)
 - [attestation](https://vocabulary.transmute.industries/ns/attestation)
 - [claim](https://vocabulary.transmute.industries/ns/claim)
+- [assertion](https://vocabulary.transmute.industries/ns/assertion)
 - [credential](https://vocabulary.transmute.industries/ns/credential)
 - [endorsement](https://vocabulary.transmute.industries/ns/endorsement)
